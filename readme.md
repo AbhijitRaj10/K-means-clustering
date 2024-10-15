@@ -1,4 +1,3 @@
-Here’s an improved and more detailed version for the `README.md` file of your customer segmentation project using K-Means clustering:
 
 ---
 
