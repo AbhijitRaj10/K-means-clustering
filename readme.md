@@ -274,4 +274,3 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ---
 
-This version provides better structure, additional explanations, and a more professional presentation suitable for a `README.md` file.
